@@ -5,3 +5,7 @@ body {
 #band-photo {
     border: pink groove 10px;
 }
+
+#band-photo:hover {
+    border: pink ridge 10px;
+}
